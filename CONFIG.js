@@ -7,5 +7,5 @@ const CONFIGDATA = {
   titleModar: "Cảm ơn cậu.",
   descriptionModar:
     "Cảm ơn cậu đã cho tớ một cơ hội để tớ có thể ở bên cạnh, che chở và bảo vệ cậu. </br> Tớ biết tớ không được đẹp trai, cũng chẳng lắm tài nhưng tớ có một trái tim chân thành. Cậu chính là cả thế giới của tớ.
-    </br> Love you <3",
+    </br> Love you <3"
 };
